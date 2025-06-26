@@ -9,7 +9,7 @@ name_pronunciation:
 first_name: 'Abel'
 last_name: 'Reiberg'
 name: 
-# Status emoji
+# status emoji
 status:
   icon: 
 
