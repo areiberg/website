@@ -1,16 +1,16 @@
 ---
 # Display name
-title: Dr. Abel Reiberg 
+title: 'Dr. Abel Reiberg' 
 
 # Name pronunciation (optional)
 name_pronunciation: ''
 
 # Full name (for SEO)
-first_name: Abel
-last_name: Reiberg
-
+first_name: 'Abel'
+last_name: 'Reiberg'
+name
 # Status emoji
-# status:
+status:
   icon: ☕️
 
 # Is this the primary user of the site?
@@ -20,12 +20,12 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Project Leader
+role: 'Project Leader'
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: acatech - National Academy of Science and Engeneering
-    url: https://acatech.de/
+  - name: 'acatech - National Academy of Science and Engeneering'
+    url: 'https://acatech.de/'
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
