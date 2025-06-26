@@ -57,16 +57,14 @@ education:
     date_start: 
     date_end: 
     summary: |
-      Text
     button:
-      text: ''
-      url: ''
+      text: 'read the thesis'
+      url: 'https://www.nomos-shop.de/de/p/netzpolitik-gr-978-3-8487-5357-4'
   - area: M.A. Political Science
     institution: Ludwig Maximilians Universität München
     date_start: 
     date_end: 
     summary: |
-      Text
 work:
   - position: Project Manager / Coordinator of the Gaia-X Hub Germany
     company_name: acatech
