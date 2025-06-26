@@ -70,34 +70,37 @@ work:
     company_name: acatech
     company_url: ''
     company_logo: ''
-    date_start: ''
+    date_start: '2025-07-01'
     date_end: ''
     summary: |
   - position: Scientific Advisor
     company_name: acatech
     company_url: ''
     company_logo: ''
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+    date_start: 2022-03-01
+    date_end: 2025-06-01
     summary: |
-      
   - position: Officer for Platform Regulation
     company_name: German Media Regulation Authorities (Gemeinsame Geschäftsstelle der Medienanstalten)
     company_url: ''
     company_logo: ''
-    date_start: 
-    date_end: ''
+    date_start: 2020-07-01
+    date_end: '2022-02-01'
     summary: |
-      Responsibilities include:
   - position: Post-Doc Researcher
     company_name: Freie Universität Berlin
     company_url: ''
     company_logo: ''
-    date_start: 
-    date_end: 
+    date_start: 2018-05-01
+    date_end: 2020-06-01
     summary: |
-      Responsibilities included:
-
+  - position: Doctoral Researcher
+    company_name: University of Münster
+    company_url: ''
+    company_logo: ''
+    date_start: 2016-09-01
+    date_end: 2018-04-01
+    summary: |
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
