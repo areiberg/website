@@ -11,7 +11,7 @@ last_name: 'Reiberg'
 name: 
 # Status emoji
 status:
-  icon: ☕️
+  icon: 
 
 # Is this the primary user of the site?
 superuser: true
@@ -20,7 +20,7 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: 'Project Leader'
+role: 'Project Manager'
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
@@ -33,18 +33,18 @@ profiles:
   - icon: at-symbol
     url: 'mailto:reiberg@internetpolicy.de'
     label: E-mail Me
-  - icon: brands/x
-    url: https://twitter.com/GetResearchDev
-  - icon: brands/instagram
-    url: https://www.instagram.com/
-  - icon: brands/github
-    url: https://github.com/gcushen
-  - icon: brands/linkedin
-    url: https://www.linkedin.com/
-  - icon: academicons/google-scholar
-    url: https://scholar.google.com/
-  - icon: academicons/orcid
-    url: https://orcid.org/
+ # - icon: brands/x
+ #   url: https://twitter.com/GetResearchDev
+ # - icon: brands/instagram
+ #   url: https://www.instagram.com/
+ # - icon: brands/github
+ #   url: https://github.com/gcushen
+ # - icon: brands/linkedin
+ #   url: https://www.linkedin.com/
+ # - icon: academicons/google-scholar
+ #   url: https://scholar.google.com/
+ # - icon: academicons/orcid
+ #   url: https://orcid.org/
 
 interests:
   - Digital & Innovation Policy
@@ -54,36 +54,27 @@ interests:
 education:
   - area: Dr. Phil. Political Science
     institution: University of Münster
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+    date_start: 
+    date_end: 
     summary: |
-      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
+      Text
     button:
-      text: 'Read Thesis'
-      url: 'https://example.com'
+      text: ''
+      url: ''
   - area: M.A. Political Science
     institution: Ludwig Maximilians Universität München
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+    date_start: 
+    date_end: 
     summary: |
-      GPA: 3.8/4.0
-
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      Text
 work:
-  - position: Project Leader / Coordinator of the Gaia-X Hub Germany
+  - position: Project Manager / Coordinator of the Gaia-X Hub Germany
     company_name: acatech
     company_url: ''
     company_logo: ''
-    date_start: 2021-01-01
+    date_start: ''
     date_end: ''
-    summary: |2-
-      Responsibilities include:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+    summary: |
   - position: Scientific Advisor
     company_name: acatech
     company_url: ''
@@ -91,32 +82,23 @@ work:
     date_start: 2016-01-01
     date_end: 2020-12-31
     summary: |
-      Responsibilities include:
-      - Migrated infrastructure to a new data center
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      
   - position: Officer for Platform Regulation
     company_name: German Media Regulation Authorities (Gemeinsame Geschäftsstelle der Medienanstalten)
     company_url: ''
     company_logo: ''
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+    date_start: 
+    date_end: ''
     summary: |
       Responsibilities include:
-      - Migrated infrastructure to a new data center
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
   - position: Post-Doc Researcher
     company_name: Freie Universität Berlin
     company_url: ''
     company_logo: ''
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+    date_start: 
+    date_end: 
     summary: |
-      Responsibilities include:
-      - Migrated infrastructure to a new data center
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      Responsibilities included:
 
 
 # Skills
