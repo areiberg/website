@@ -1,16 +1,16 @@
 ---
 # Display name
-title: 吳健雄
+title: Dr. Abel Reiberg 
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation: ''
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Abel
+last_name: Reiberg
 
 # Status emoji
-status:
+# status:
   icon: ☕️
 
 # Is this the primary user of the site?
@@ -20,18 +20,18 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Chief Scientist
+role: Project Leader
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: OpenAI
-    url: https://openai.com/
+  - name: acatech - National Academy of Science and Engeneering
+    url: https://acatech.de/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:your-email@example.com'
+    url: 'mailto:reiberg@internetpolicy.de'
     label: E-mail Me
   - icon: brands/x
     url: https://twitter.com/GetResearchDev
@@ -47,13 +47,13 @@ profiles:
     url: https://orcid.org/
 
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Digital & Innovation Policy
+  - Data Governance
+  - Platform Regulation
 
 education:
-  - area: PhD Artificial Intelligence
-    institution: Stanford University
+  - area: Dr. Phil. Political Science
+    institution: University of Münster
     date_start: 2016-01-01
     date_end: 2020-12-31
     summary: |
@@ -61,8 +61,8 @@ education:
     button:
       text: 'Read Thesis'
       url: 'https://example.com'
-  - area: MEng Artificial Intelligence
-    institution: Massachusetts Institute of Technology
+  - area: M.A. Political Science
+    institution: Ludwig Maximilians Universität München
     date_start: 2016-01-01
     date_end: 2020-12-31
     summary: |
@@ -72,20 +72,9 @@ education:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: BSc Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      GPA: 3.4/4.0
-      
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
 work:
-  - position: Director of Cloud Infrastructure
-    company_name: GenCoin
+  - position: Project Leader / Coordinator of the Gaia-X Hub Germany
+    company_name: acatech
     company_url: ''
     company_logo: ''
     date_start: 2021-01-01
@@ -95,8 +84,8 @@ work:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - position: Backend Software Engineer
-    company_name: X
+  - position: Scientific Advisor
+    company_name: acatech
     company_url: ''
     company_logo: ''
     date_start: 2016-01-01
@@ -106,6 +95,29 @@ work:
       - Migrated infrastructure to a new data center
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
+  - position: Officer for Platform Regulation
+    company_name: German Media Regulation Authorities (Gemeinsame Geschäftsstelle der Medienanstalten)
+    company_url: ''
+    company_logo: ''
+    date_start: 2016-01-01
+    date_end: 2020-12-31
+    summary: |
+      Responsibilities include:
+      - Migrated infrastructure to a new data center
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+  - position: Post-Doc Researcher
+    company_name: Freie Universität Berlin
+    company_url: ''
+    company_logo: ''
+    date_start: 2016-01-01
+    date_end: 2020-12-31
+    summary: |
+      Responsibilities include:
+      - Migrated infrastructure to a new data center
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
@@ -183,4 +195,4 @@ awards:
 
 ## About Me
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+My professional focus lies in digital policy and the development of data ecosystems in Europe. I currently serve as Project Manager at acatech – National Academy of Science and Engineering, where I lead the Gaia-X Hub Germany. The Hub acts as the national point of contact for the Gaia-X initiative, supporting the creation of secure and interoperable data infrastructures. Before joining acatech, I worked at the German media authorities, contributing to the regulation of digital platforms. Before that, I conducted research on digital policy at several academic institutions. My doctoral dissertation offers an overview of the early years of german digital policy, with a particular emphasis on policy analysis using text mining methods.
