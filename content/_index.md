@@ -1,6 +1,6 @@
 ---
 # Leave the homepage title empty to use the site title
-title: "abel.reiberg.de"
+title: ""
 date: 2022-10-24
 type: landing
 
@@ -15,9 +15,9 @@ sections:
       username: admin
       text: ""
       # Show a call-to-action button under your biography? (optional)
-      # button:
-      #  text: Download CV
-      #  url: uploads/resume.pdf
+      button:
+        text: Download CV
+        url: uploads/resume.pdf
     design:
       css_class: dark
       background:
@@ -52,7 +52,7 @@ sections:
         featured_only: true
     design:
       view: article-grid
-     columns: 2
+      columns: 2
   - block: collection
     content:
       title: Recent Publications
