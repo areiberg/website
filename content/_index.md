@@ -6,7 +6,7 @@ type: landing
 
 design:
   # Default section spacing
-  spacing: "7rem"
+  spacing: "6rem"
 
 sections:
   - block: resume-biography-3
@@ -54,7 +54,7 @@ sections:
       view: article-grid
       columns: 2
       background:
-        color: grey
+        color: light grey
   - block: collection
     content:
       title: Recent Publications
