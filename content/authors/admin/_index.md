@@ -31,7 +31,7 @@ organizations:
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:reiberg@internetpolicy.de'
+    url: 'mailto:reiberg@acatech.de'
     label: E-mail Me
  # - icon: brands/x
  #   url: https://twitter.com/GetResearchDev
@@ -67,14 +67,14 @@ education:
     summary: |
 work:
   - position: Project Manager / Coordinator of the Gaia-X Hub Germany
-    company_name: acatech
+    company_name: acatech - National Academy of Science and Engeneering
     company_url: ''
     company_logo: ''
     date_start: '2025-07-01'
     date_end: ''
     summary: |
   - position: Scientific Advisor
-    company_name: acatech
+    company_name: acatech - National Academy of Science and Engeneering
     company_url: ''
     company_logo: ''
     date_start: 2022-03-01
@@ -104,21 +104,21 @@ work:
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
-skills:
-  - name: Technical Skills
-    items:
-      - name: Python
-        description: ''
-        percent: 80
-        icon: code-bracket
-      - name: Data Science
-        description: ''
-        percent: 100
-        icon: chart-bar
-      - name: SQL
-        description: ''
-        percent: 40
-        icon: circle-stack
+# skills:
+#  - name: Technical Skills
+#    items:
+#      - name: Python
+#        description: ''
+#        percent: 80
+#        icon: code-bracket
+#      - name: Data Science
+#        description: ''
+#        percent: 100
+#        icon: chart-bar
+#      - name: SQL
+#        description: ''
+#        percent: 40
+#        icon: circle-stack
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
