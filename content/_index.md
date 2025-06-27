@@ -57,7 +57,7 @@ sections:
         color: light grey
   - block: collection
     content:
-      title: Recent Publications
+      title: Other Publications
       text: ""
       filters:
         folders:
