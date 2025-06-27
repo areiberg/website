@@ -53,6 +53,8 @@ sections:
     design:
       view: article-grid
       columns: 2
+      background:
+        color: grey
   - block: collection
     content:
       title: Recent Publications
