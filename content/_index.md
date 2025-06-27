@@ -1,6 +1,6 @@
 ---
 # Leave the homepage title empty to use the site title
-title: ""
+title: "Abel.Reiberg.de"
 date: 2022-10-24
 type: landing
 
