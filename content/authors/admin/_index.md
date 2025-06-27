@@ -24,7 +24,7 @@ role: 'Senior Project Manager'
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: 'acatech - National Academy of Science and Engeneering'
+  - name: acatech
     url: 'https://acatech.de/'
 
 # Social network links
