@@ -8,7 +8,7 @@ name_pronunciation:
 # Full name (for SEO)
 first_name: 'Abel'
 last_name: 'Reiberg'
-name: 
+name: Dr. Abel Reiberg
 # status emoji
 status:
   icon: 
