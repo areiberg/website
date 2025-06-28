@@ -20,11 +20,11 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: 'Project Lead'
+role: 'Project Lead Gaia-X Hub Germany'
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: acatech
+  - name: acatech - National Academy of Science and Engeneering
     url: 'https://acatech.de/'
 
 # Social network links
