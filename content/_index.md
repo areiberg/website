@@ -43,9 +43,9 @@ sections:
 #    design:
 #      columns: '1'
 sections:
-  - block: resume-experience
+  - block: collection
     content:
-      username: admin
+      title: experience
     design:
       # Hugo date format
       date_format: 'January 2006'
