@@ -20,7 +20,7 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: 'Senior Project Manager'
+role: 'Project Lead'
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
@@ -134,4 +134,4 @@ work:
 
 ## About Me
 
-My work focuses on digital policy and and sovereign data ecosystems. I currently serve as a Senior Project Manager at acatech – National Academy of Science and Engineering, where I lead the Gaia-X Hub Germany. The Hub acts as the national point of contact for the Gaia-X initiative, supporting the creation of secure and interoperable data infrastructures. Before joining acatech, I worked at the German media authorities, contributing to the regulation of digital platforms. Earlier, I conducted research on digital policy at several academic institutions. My doctoral dissertation offers an overview of the early years of german digital policy, with a particular emphasis on policy analysis using text mining methods.
+My work focuses on digital policy and and sovereign data ecosystems. I currently serve as a Project Lead at acatech – National Academy of Science and Engineering, where I lead the Gaia-X Hub Germany. The Hub acts as the national point of contact for the Gaia-X initiative, supporting the creation of secure and interoperable data infrastructures. Before joining acatech, I worked at the German media authorities, contributing to the regulation of digital platforms. Earlier, I conducted research on digital policy at several academic institutions. My doctoral dissertation offers an overview of the early years of german digital policy, with a particular emphasis on policy analysis using text mining methods.
