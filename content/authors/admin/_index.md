@@ -66,7 +66,7 @@ education:
     date_end: 
     summary: |
 work:
-  - position: Senior Project Manager - Gaia-X Hub Germany
+  - position: Projet Lead - Gaia-X Hub Germany
     company_name: acatech - National Academy of Science and Engeneering
     company_url: ''
     company_logo: ''
