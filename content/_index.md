@@ -42,10 +42,9 @@ sections:
 #        Please reach out to collaborate 😃
 #    design:
 #      columns: '1'
-sections:
-  - block: collection
+  - block: experience
     content:
-      title: experience
+      title: Experience
     design:
       # Hugo date format
       date_format: 'January 2006'
