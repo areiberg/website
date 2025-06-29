@@ -30,7 +30,7 @@ summary: 'Der Beitrag bietet eine Einführung in die Governance von Datenräumen
 tags:
 - Data Governance
 
-featured: false
+featured: true
 
 # links:
 # - name: ""
