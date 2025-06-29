@@ -25,7 +25,7 @@ publication_short: "Governance von Datenräumen"
 abstract: 'Mit Datenräumen wird die Hoffnung verbunden, die Datenökonomie zu stärken und dabei die Rechte auf Privatheit, Transparenz und Selbstbestimmung zu verbessern. Datenräume sind föderiert aufgebaut und bieten daher einer Vielzahl von Akteuren die Möglichkeit, als Teilnehmende und Betreiber mitzuwirken. Dies ist jedoch Chance und Herausforderung zugleich: Einerseits lassen sich Datensouveränität, Wettbewerb und Innovation in offenen Datenräumen potenziell leichter realisieren als in zentralisierten Infrastrukturen. Andererseits gilt es dafür ein effizientes, effektives und faires Zusammenwirken der Akteure durch entsprechende Governance-Arrangements zu gewährleisten. Zweck dieses Beitrags ist es, eine Einführung in Themen der Datentraum-Governance zu bieten und so die theoretische Auseinandersetzung mit Lösungen sowie die praktische Umsetzung dieser zu fördern. Dazu wird jeweils kurz auf grundlegende Themen, darunter Akteure, Strukturen und Phasen der Datenraum-Governance, eingegangen.'
 
 # Summary. An optional shortened abstract.
-summary: Der Beitrag bietet eine Einführung in die Governance von Datenräumen, die als föderierte Infrastrukturen Chancen für Datensouveränität, Wettbewerb und Innovation bieten.
+summary: 'Der Beitrag bietet eine Einführung in die Governance von Datenräumen, die als föderierte Infrastrukturen Chancen für Datensouveränität, Wettbewerb und Innovation bieten.'
 
 tags:
 - Data Governance
