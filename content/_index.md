@@ -54,7 +54,7 @@ sections:
   - block: collection
     id: papers
     content:
-      title: Featured Publicationsgov
+      title: Featured Publications
       filters:
         folders:
           - publication
@@ -64,16 +64,16 @@ sections:
       columns: 2
       background:
         color: light grey
-  - block: collection
-    content:
-      title: Other Publications
-      text: ""
-      filters:
-        folders:
-          - publication
-        exclude_featured: false
-    design:
-      view: citation
+#  - block: collection
+#    content:
+#      title: Other Publications
+#      text: ""
+#      filters:
+#        folders:
+#          - publication
+#        exclude_featured: false
+#    design:
+#      view: citation
 #  - block: collection
 #    id: talks
 #    content:
