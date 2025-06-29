@@ -2,11 +2,13 @@
 title: "An example journal article"
 authors:
 - admin
-- Robert Ford
+- Crispin Niebel
+- Anna-Raphaela Schmitz
 author_notes:
 - "Equal contribution"
 - "Equal contribution"
-date: "2015-09-01T00:00:00Z"
+- "Equal contribution"
+date: "2024-09-01T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -15,26 +17,27 @@ publishDate: "2017-01-01T00:00:00Z"
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
 # Enter a publication type from the CSL standard.
-publication_types: ["article-journal"]
+publication_types: ["chapter"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Journal of Source Themes, 1*(1)"
-publication_short: ""
+publication: "Governance von Datenräumen: Akteure, Strukturen und Phasen der Datenraum-Governance"
+publication_short: "Governance von Datenräumen"
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: Mit Datenräumen wird die Hoffnung verbunden, die Datenökonomie zu stärken und dabei die Rechte auf Privatheit, Transparenz und Selbstbestimmung zu verbessern. Entsprechend wird der Aufbau von Datenräumen aktuell intensiv gefördert. Bei diesem kommt insbesondere der Governance (hier verstanden als die Koordinierung der relevanten Akteure) entscheidende Bedeutung zu. Datenräume sind föderiert aufgebaut und bieten daher einer Vielzahl von Akteuren die Möglichkeit, als Teilnehmende und Betreiber mitzuwirken. Dies ist jedoch Chance und Herausforderung zugleich: Einerseits lassen sich Datensouveränität, Wettbewerb und Innovation in offenen Datenräumen potenziell leichter realisieren als in zentralisierten Infrastrukturen. Andererseits gilt es dafür ein effizientes, effektives und faires Zusammenwirken der Akteure durch entsprechende Governance-Arrangements zu gewährleisten. Zweck dieses Beitrags ist es, eine Einführung in Themen der Datentraum-Governance zu bieten und so die theoretische Auseinandersetzung mit Lösungen sowie die praktische Umsetzung dieser zu fördern. Dazu wird jeweils kurz auf grundlegende Themen, darunter Akteure, Strukturen und Phasen der Datenraum-Governance, eingegangen.
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: Der Beitrag bietet eine Einführung in die Governance von Datenräumen, die als föderierte Infrastrukturen Chancen für Datensouveränität, Wettbewerb und Innovation bieten.
 
 tags:
-- Source Themes
-featured: false
+- Data Governance
+
+featured: true
 
 # links:
 # - name: ""
 #   url: ""
-url_pdf: http://arxiv.org/pdf/1512.04133v1
-url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
+url_pdf: https://www.nomos-elibrary.de/de/10.5771/9783748940173-49/governance-von-datenraeumen-akteure-strukturen-und-phasen-der-datenraum-governance?page=3
+url_code: ''
 url_dataset: ''
 url_poster: ''
 url_project: ''
@@ -45,7 +48,7 @@ url_video: ''
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/jdD8gXaTZsc)'
+  caption: 'Image credit: Nomos'
   focal_point: ""
   preview_only: false
 
