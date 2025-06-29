@@ -12,7 +12,7 @@ author_notes:
   - 'Equal contribution'
   - 'Equal contribution'
 
-date: '2018-07-01T00:00:00Z'
+date: '2018-07-01'
 doi: '10.5771/9783845295572'
 
 # Schedule page publish date (NOT publication's date).
