@@ -31,18 +31,18 @@ summary: Der Beitrag bietet eine Einführung in die Governance von Datenräumen,
 tags:
 - Data Governance
 
-featured: true
+featured: false
 
 # links:
 # - name: ""
 #   url: ""
-url_pdf: https://www.nomos-elibrary.de/de/10.5771/9783748940173-49/governance-von-datenraeumen-akteure-strukturen-und-phasen-der-datenraum-governance?page=3
+url_pdf: ''
 url_code: ''
 url_dataset: ''
 url_poster: ''
 url_project: ''
 url_slides: ''
-url_source: ''
+url_source: 'https://www.nomos-elibrary.de/de/10.5771/9783748940173-49/governance-von-datenraeumen-akteure-strukturen-und-phasen-der-datenraum-governance?page=3'
 url_video: ''
 
 # Featured image
