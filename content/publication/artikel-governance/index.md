@@ -35,14 +35,13 @@ featured: true
 # links:
 # - name: ""
 #   url: ""
-url_pdf: ''
+url_pdf: 'https://www.nomos-elibrary.de/de/10.5771/9783748940173-49/governance-von-datenraeumen-akteure-strukturen-und-phasen-der-datenraum-governance?page=3'
 url_code: ''
 url_dataset: ''
 url_poster: ''
 url_project: ''
 url_slides: ''
-url_source: 'https://www.nomos-elibrary.de/de/10.5771/9783748940173-49/governance-von-datenraeumen-akteure-strukturen-und-phasen-der-datenraum-governance?page=3'
-url_video: ''
+url_source: ''
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
