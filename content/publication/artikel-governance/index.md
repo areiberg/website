@@ -1,5 +1,5 @@
 ---
-title: "An example journal article"
+title: "Governance von Datenräumen"
 authors:
 - admin
 - Crispin Niebel
